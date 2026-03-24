@@ -1,16 +1,21 @@
-## Hi there 👋
+<h3 align="center">👋 Hi there, I'm PERASANI NAGA SAI SRINIVAS</h3>
 
-<!--
-**srinivas1827/Srinivas1827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/srinivas1827">Website</a> •
+  <a href="https://twitter.com/">Twitter</a> •
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/naga-sai-srinivas-perasani-6b5536243/">LinkedIn</a> •
+  <a href="https://github.com/srinivas1827">GitHub</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working as an Analyst at Cognizant, supporting a Google client project in the Digital Operations domain, where I gained experience in enterprise operations and system workflows. I am actively transitioning into a DevOps Engineer role with hands-on training and projects in cloud and automation technologies. My skills include AWS, Docker, Kubernetes, Jenkins, Git & GitHub, Linux, Maven, and Terraform, with practical experience in building CI/CD pipelines and deploying containerized applications. This GitHub profile showcases my DevOps learning journey, projects, and continuous efforts to build scalable, automated, and efficient cloud-based solutions.
+
+---
+
+- 🔭 Currently working as **Process Executive** at **Cognizant**
+- 💬 Ask me about: **AWS services, Docker and container orchestration, CI/CD processes**
+- 📍 Based in: **Hyderabad, India**
+- 📫 Reach me: [nagasaiperasani@gmail.com](mailto:nagasaiperasani@gmail.com)
+
+---
