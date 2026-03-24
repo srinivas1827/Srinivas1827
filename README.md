@@ -1,8 +1,6 @@
 <h3 align="center">👋 Hi there, I'm PERASANI NAGA SAI SRINIVAS</h3>
 
 <p align="center">
-  <a href="https://github.com/srinivas1827">Website</a> •
-  <a href="https://twitter.com/">Twitter</a> •
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/naga-sai-srinivas-perasani-6b5536243/">LinkedIn</a> •
   <a href="https://github.com/srinivas1827">GitHub</a>
 </p>
@@ -14,7 +12,7 @@ I am currently working as an Analyst at Cognizant, supporting a Google client pr
 ---
 
 - 🔭 Currently working as **Process Executive** at **Cognizant**
-- 💬 Ask me about: **AWS services, Docker and container orchestration, CI/CD processes**
+- 💬 Ask me about: **AWS services, Docker and container orchestration, CI/CD processes , Kubernetes , Terraform , Build Tool Maven , Jenkins**
 - 📍 Based in: **Hyderabad, India**
 - 📫 Reach me: [nagasaiperasani@gmail.com](mailto:nagasaiperasani@gmail.com)
 
